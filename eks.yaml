@@ -1,6 +1,5 @@
 apiVersion: eksctl.io/vlalpha5
 kind: ClusterConfig
-			
 metadata:
   name: expense
   region: us-east-1
